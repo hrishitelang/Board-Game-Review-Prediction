@@ -1,0 +1,2 @@
+# Board-Game-Review-Prediction
+In this project, I am using all the different Linear Regression Models (Multiple, SVM, Decision Tree, Random Forest) to predict the user ratings of the respective board game by using an open source web scraped dataset of over 80,000 games from BoardGameGeek. With this prediction, we are deducing which kind of model predicts best with the actual user ratings from the dataset.
